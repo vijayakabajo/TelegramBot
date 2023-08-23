@@ -1,0 +1,19 @@
+{
+    "classes": [
+      {
+        "name": "Python(AKM)",
+        "time": "12:24",
+        "days": [0, 1, 2, 3, 4] 
+      },
+      {
+        "name": "AI(KR)",
+        "time": "12:11",
+        "days": [0, 1, 2, 3, 4]  
+      },
+      {
+        "name": "Lab on AI(KR)",
+        "time": "00:38",
+        "days": [0, 1, 2, 3, 4]   
+      }
+    ]
+  }
